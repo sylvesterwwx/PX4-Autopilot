@@ -101,6 +101,7 @@ px4_add_romfs_files(
 
 	# [9000, 9999] Octorotor +"
 	9001_octo_+
+	9999_octo_+x
 
 	# [10000, 10999] Quadrotor Wide arm / H frame"
 	10015_tbs_discovery
